@@ -7,9 +7,9 @@ In this role I acquired skills in operations, management, data manipulation and 
 ## Interests and skills:
 - __Python__ ![4518857_python_icon (1)](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/c3834e13-c3a1-4b57-84c8-29b119eb236a)
 - __Ruby__ ![49804_ruby_icon](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/f935a1da-0d22-46e7-8315-fa12c267da2b)
-- __SQL / MySQL__
-- __Excel__
-- __Data manipulation, data interpretation, data analysis__
+- __SQL / MySQL__ ![mysql_icon](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/0e866038-ff86-4565-9e56-3d847a2d7b5a)
+- __MS Excel__ ![excel_logo_logos](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/c0cd00d7-7bd4-4f55-b8ee-2f8bd61075df)
+- __Data manipulation, data interpretation, data analysis__ ![115746_data_icon](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/8cecb316-af50-4924-a2bd-12bab27874e9)
 
 ## Future Plans:
 Looking to make a career change into the :computer: tech industry and get a job as a code writer, code tester, data analysis.
@@ -19,17 +19,3 @@ Finish my course titled "CS50's Introduction to Artificial Intelligence with Pyt
 
 ### My Profile on [LinkedIn](https://www.linkedin.com/in/daniel-boerescu-49b30411b/) 
 
-<!--
-**DANIEL-BOERESCU/DANIEL-BOERESCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
