@@ -1,5 +1,5 @@
 # ✨ About me: curious, eager to learn, love a good brain teaser :chess_pawn: ✨ 
-# My Profile on [LinkedIn](www.linkedin.com/in/daniel-boerescu-49b30411b) 
+# My Profile on [LinkedIn](https://www.linkedin.com/in/daniel-boerescu-49b30411b/) 
 
 ## Currently, I am enrolled in a Bootcamp in Software Engineering with CoGrammar /  HyperionDev
 ## Interests and skills:
