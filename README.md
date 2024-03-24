@@ -1,4 +1,7 @@
 # ✨ About me: curious, eager to learn, love a good brain teaser :chess_pawn: ✨ 
+Coming from a logistics background, where my position is export airfreight manager :airplane:.
+
+In this role I acquired skills in operations, management, data manipulation and interpretation.
 
 ## Currently, I am enrolled in a Bootcamp in Software Engineering with [CoGrammar](https://skills.cogrammar.com/) / [HyperionDev](https://www.hyperiondev.com/)
 ## Interests and skills:
@@ -7,14 +10,14 @@
 - __SQL / MySQL__
 - __Excel__
 
-### Future Plans:
+## Future Plans:
 Coming from a logistics background, where my position is export airfreight manager :airplane:.
 
 In this role I aquired skills in operations, management, data manipulation and interpretation.
 
 Looking to make a career change into the :computer: tech industry and get a job as a code writer, code tester, data analysis.
 
-#### My Profile on [LinkedIn](https://www.linkedin.com/in/daniel-boerescu-49b30411b/) 
+### My Profile on [LinkedIn](https://www.linkedin.com/in/daniel-boerescu-49b30411b/) 
 
 <!--
 **DANIEL-BOERESCU/DANIEL-BOERESCU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
