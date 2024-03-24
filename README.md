@@ -10,8 +10,8 @@
 
 ### Future Plans:
 Coming from a logistics background, where my position is export airfreight manager :airplane: 
-In this role I aquired skills in operations, management, data manipulation and interpretation.
-Looking to make a career change into the :computer: tech industry and get a job as a code writer, code tester, data analysis.
+\n In this role I aquired skills in operations, management, data manipulation and interpretation.
+\n Looking to make a career change into the :computer: tech industry and get a job as a code writer, code tester, data analysis.
 
 
 <!--
