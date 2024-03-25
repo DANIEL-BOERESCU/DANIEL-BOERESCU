@@ -3,7 +3,7 @@ Coming from a logistics background, where my position is export airfreight manag
 
 In this role I acquired skills in operations, management, data manipulation and interpretation in MS Excel.
 
-## Currently, I am enrolled in a Bootcamp in Software Engineering with [CoGrammar](https://skills.cogrammar.com/) / [HyperionDev](https://www.hyperiondev.com/)
+## Currently, I am enrolled on a Bootcamp in Software Engineering with [CoGrammar](https://skills.cogrammar.com/) / [HyperionDev](https://www.hyperiondev.com/)
 ## Interests and skills:
 - __Python__ ![4518857_python_icon (1)](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/c3834e13-c3a1-4b57-84c8-29b119eb236a)
 - __Ruby__ ![49804_ruby_icon](https://github.com/DANIEL-BOERESCU/DANIEL-BOERESCU/assets/164760774/f935a1da-0d22-46e7-8315-fa12c267da2b)
