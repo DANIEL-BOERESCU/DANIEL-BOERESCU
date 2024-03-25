@@ -16,7 +16,7 @@ In this role I acquired skills in operations, management, data manipulation and 
 ## Future Plans:
 Looking to make a career change into the :computer: tech industry and get my first job as a Software Engineer, Software Developer or Software Test Analyst.
 
-Finish the course titled "CS50's Introduction to Artificial Intelligence with Python".
+Working towards finishing the course titled "CS50's Introduction to Artificial Intelligence with Python" .
 
 
 ### My Profile on [LinkedIn](https://www.linkedin.com/in/daniel-boerescu-49b30411b/) 
