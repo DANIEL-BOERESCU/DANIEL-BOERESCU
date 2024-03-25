@@ -1,4 +1,6 @@
-# ✨ About me: curious, eager to learn, love a good brain teaser :chess_pawn: ✨ 
+# Hi there! :wave: I am Daniel Boerescu
+
+## ✨ About me: curious, eager to learn, love a good brain teaser :chess_pawn: ✨ 
 Coming from a logistics background, where my position is export airfreight manager :airplane:.
 
 In this role I acquired skills in operations, management, data manipulation and interpretation in MS Excel.
